@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://prashanthisadde.github.io/blog</id>
+    <title>Hi, I'm Prashanthi. Blog</title>
+    <updated>2022-04-12T18:08:19.814Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://prashanthisadde.github.io/blog"/>
+    <subtitle>Hi, I'm Prashanthi. Blog</subtitle>
+    <icon>https://prashanthisadde.github.io/img/pfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My updates]]></title>
+        <id>updates</id>
+        <link href="https://prashanthisadde.github.io/blog/updates"/>
+        <updated>2022-04-12T18:08:19.814Z</updated>
+        <summary type="html"><![CDATA[April, 2022]]></summary>
+        <content type="html"><![CDATA[<p><em>April, 2022</em> <br>
+👾 Added new section called <code>Updates</code> to show all updates in one place</p><p><em>April, 2022</em> <br>
+👾 Work alert - Integrating and automating Data Engineering - Analytics tasks with DevOps. More details in the future 🤩</p><p><em>April, 2022</em> <br>
+👾 Created this website</p>]]></content>
+    </entry>
+</feed>

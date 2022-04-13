@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Hi, I'm Prashanthi. Blog</title>
+        <link>https://prashanthisadde.github.io/blog</link>
+        <description>Hi, I'm Prashanthi. Blog</description>
+        <lastBuildDate>Tue, 12 Apr 2022 18:08:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[My updates]]></title>
+            <link>https://prashanthisadde.github.io/blog/updates</link>
+            <guid>updates</guid>
+            <pubDate>Tue, 12 Apr 2022 18:08:19 GMT</pubDate>
+            <description><![CDATA[April, 2022]]></description>
+            <content:encoded><![CDATA[<p><em>April, 2022</em> <br>
+👾 Added new section called <code>Updates</code> to show all updates in one place</p><p><em>April, 2022</em> <br>
+👾 Work alert - Integrating and automating Data Engineering - Analytics tasks with DevOps. More details in the future 🤩</p><p><em>April, 2022</em> <br>
+👾 Created this website</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
