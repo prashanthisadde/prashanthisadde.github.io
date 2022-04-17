@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Hi, I'm Prashanthi. Blog</title>
+        <link>https://prashanthisadde.github.io/notions</link>
+        <description>Hi, I'm Prashanthi. Blog</description>
+        <lastBuildDate>Sun, 17 Apr 2022 09:48:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://prashanthisadde.github.io/notions/notions</link>
+            <guid>notions</guid>
+            <pubDate>Sun, 17 Apr 2022 09:48:31 GMT</pubDate>
+            <description><![CDATA[Coming soon 💜]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="coming-soon-">Coming soon 💜<a class="hash-link" href="#coming-soon-" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="hi" src="/assets/images/pnotions-df5da6089079a79900e66b1bba68f3a8.svg" width="631" height="469" class="img_E7b_"></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

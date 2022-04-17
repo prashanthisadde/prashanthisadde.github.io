@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"April, 2022","permalink":"/blog/april"},{"title":"Welcome","permalink":"/blog/updates"}]}')}}]);

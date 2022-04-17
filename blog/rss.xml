@@ -4,20 +4,25 @@
         <title>Hi, I'm Prashanthi. Blog</title>
         <link>https://prashanthisadde.github.io/blog</link>
         <description>Hi, I'm Prashanthi. Blog</description>
-        <lastBuildDate>Tue, 12 Apr 2022 18:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 17:51:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[My updates]]></title>
+            <title><![CDATA[April, 2022]]></title>
+            <link>https://prashanthisadde.github.io/blog/april</link>
+            <guid>april</guid>
+            <pubDate>Sun, 17 Apr 2022 17:51:13 GMT</pubDate>
+            <description><![CDATA[👾 Created this website]]></description>
+            <content:encoded><![CDATA[<p>👾 Created this website</p><p>👾 Work alert - Integrating and automating Data Engineering - Analytics tasks with DevOps. More details in the future 🤩</p><p>👾 Added new section called <code>Updates</code> to show all updates in one place</p><p>👾  New section - <code>Notions</code></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
             <link>https://prashanthisadde.github.io/blog/updates</link>
             <guid>updates</guid>
             <pubDate>Tue, 12 Apr 2022 18:08:19 GMT</pubDate>
-            <description><![CDATA[April, 2022]]></description>
-            <content:encoded><![CDATA[<p><em>April, 2022</em> <br>
-👾 Added new section called <code>Updates</code> to show all updates in one place</p><p><em>April, 2022</em> <br>
-👾 Work alert - Integrating and automating Data Engineering - Analytics tasks with DevOps. More details in the future 🤩</p><p><em>April, 2022</em> <br>
-👾 Created this website</p>]]></content:encoded>
+            <description><![CDATA[I will share my all updates in this section]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="i-will-share-my-all-updates-in-this-section">I will share my all updates in this section<a class="hash-link" href="#i-will-share-my-all-updates-in-this-section" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="hi" src="/assets/images/pupdates-0eaa0fa9488395b3d85301353c4d8300.svg" width="846" height="526" class="img_E7b_"></p>]]></content:encoded>
         </item>
     </channel>
 </rss>

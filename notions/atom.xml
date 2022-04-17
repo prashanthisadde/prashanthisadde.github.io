@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://prashanthisadde.github.io/notions</id>
+    <title>Hi, I'm Prashanthi. Blog</title>
+    <updated>2022-04-17T09:48:31.215Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://prashanthisadde.github.io/notions"/>
+    <subtitle>Hi, I'm Prashanthi. Blog</subtitle>
+    <icon>https://prashanthisadde.github.io/img/pfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>notions</id>
+        <link href="https://prashanthisadde.github.io/notions/notions"/>
+        <updated>2022-04-17T09:48:31.215Z</updated>
+        <summary type="html"><![CDATA[Coming soon 💜]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="coming-soon-">Coming soon 💜<a class="hash-link" href="#coming-soon-" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="hi" src="/assets/images/pnotions-df5da6089079a79900e66b1bba68f3a8.svg" width="631" height="469" class="img_E7b_"></p>]]></content>
+    </entry>
+</feed>
