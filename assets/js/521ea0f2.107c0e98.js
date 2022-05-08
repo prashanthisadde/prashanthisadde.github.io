@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[265],{4026:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"1 Pnotions","permalink":"/notions/Fnotions"},{"title":"Welcome","permalink":"/notions/notions"}]}')}}]);
