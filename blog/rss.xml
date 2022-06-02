@@ -4,10 +4,18 @@
         <title>Hi, I'm Prashanthi. Blog</title>
         <link>https://prashanthisadde.github.io/blog</link>
         <description>Hi, I'm Prashanthi. Blog</description>
-        <lastBuildDate>Sat, 29 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[June, 2022]]></title>
+            <link>https://prashanthisadde.github.io/blog/june</link>
+            <guid>june</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[👾 New update 🤩 - I am learning and started working with Google Cloud]]></description>
+            <content:encoded><![CDATA[<p>👾 New update 🤩 - I am learning and started working with Google Cloud</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[May, 2022]]></title>
             <link>https://prashanthisadde.github.io/blog/may</link>
