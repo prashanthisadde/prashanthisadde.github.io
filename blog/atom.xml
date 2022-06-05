@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://prashanthisadde.github.io/blog</id>
     <title>Hi, I'm Prashanthi. Blog</title>
-    <updated>2021-06-02T00:00:00.000Z</updated>
+    <updated>2021-06-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://prashanthisadde.github.io/blog"/>
     <subtitle>Hi, I'm Prashanthi. Blog</subtitle>
@@ -11,9 +11,10 @@
         <title type="html"><![CDATA[June, 2022]]></title>
         <id>june</id>
         <link href="https://prashanthisadde.github.io/blog/june"/>
-        <updated>2021-06-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[👾 Personal update 🤩 - I am learning and started working with Google Cloud]]></summary>
-        <content type="html"><![CDATA[<p>👾 Personal update 🤩 - I am learning and started working with Google Cloud</p>]]></content>
+        <updated>2021-06-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[👾 June 05, 2022]]></summary>
+        <content type="html"><![CDATA[<p>👾 <code>June 05, 2022</code>
+<a href="https://prashanthisadde.substack.com/p/6-pnotions?s=w" target="_blank" rel="noopener noreferrer">#6 Pnotions</a> 🛸</p><p>👾 Personal update 🤩 - I am learning and started working with Google Cloud</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[May, 2022]]></title>
