@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://prashanthisadde.github.io/notions</id>
     <title>Hi, I'm Prashanthi. Blog</title>
-    <updated>2022-06-19T00:00:00.000Z</updated>
+    <updated>2022-06-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://prashanthisadde.github.io/notions"/>
     <subtitle>Hi, I'm Prashanthi. Blog</subtitle>
     <icon>https://prashanthisadde.github.io/img/pfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What is it? I don’t know.]]></title>
+        <id>IdontKnow</id>
+        <link href="https://prashanthisadde.github.io/notions/IdontKnow"/>
+        <updated>2022-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Still don’t know]]></summary>
+        <content type="html"><![CDATA[<p>Still don’t know</p><p>You are probably wondering how I cannot know what I am writing. Well, that happens sometimes. Maybe all the time. But I am writing, which is the point.</p><p>I have to gather my thoughts on whatever this is. For now, enjoy reading it.</p><p>Okay, first, I am temporarily stopping composing my newsletter, Pnotions. I started because I was excited about it. After eight weeks, I am not anymore. I had fun composing them, all eight letters. It is time for a little break from it. I love to hear if you have any thoughts on Pnotions.</p><p>On a completely unrelated note,</p><p>Last year Gartner proposed a new term for all things DevOps in its trends, XOps. Maybe they got tired, like everyone else, hearing all these words - DevOps, DevSecOps, GitOps, MLOps, AIOps, DataOps, and Iseriouslydon’tcareOps. I mean, come on, that’s a lot of OPS.</p><p>I like XOps. It sounds cool. I am not saying it sounds like X-Men, but you get the idea.</p><p>If you think this is crazy, thank you.</p><p>Until next time,</p><p>Prashanthi <br>
+<a href="https://prashanthisadde.substack.com/" target="_blank" rel="noopener noreferrer">Pnotions</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Pnotions]]></title>
         <id>8notions</id>
