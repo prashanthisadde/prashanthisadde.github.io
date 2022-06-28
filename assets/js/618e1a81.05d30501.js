@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[3627],{8035:function(e){e.exports=JSON.parse('{"permalink":"/notions","page":1,"postsPerPage":10,"totalPages":2,"totalCount":11,"nextPage":"/notions/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
