@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[6155],{144:function(a){a.exports=JSON.parse('{"label":"dilemma","permalink":"/writing/tags/dilemma","allTagsPath":"/writing/tags","count":1}')}}]);

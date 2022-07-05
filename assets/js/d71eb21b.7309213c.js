@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[9465],{4986:function(a){a.exports=JSON.parse('{"label":"healthcare","permalink":"/writing/tags/healthcare","allTagsPath":"/writing/tags","count":1}')}}]);

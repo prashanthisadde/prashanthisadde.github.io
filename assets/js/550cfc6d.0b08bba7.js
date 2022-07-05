@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[1085],{9937:function(a){a.exports=JSON.parse('{"label":"Gartner","permalink":"/writing/tags/gartner","allTagsPath":"/writing/tags","count":1}')}}]);

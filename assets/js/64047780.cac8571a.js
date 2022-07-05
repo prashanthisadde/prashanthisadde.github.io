@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[2763],{3248:function(e){e.exports=JSON.parse('{"label":"improving lives","permalink":"/writing/tags/improving-lives","allTagsPath":"/writing/tags","count":1}')}}]);

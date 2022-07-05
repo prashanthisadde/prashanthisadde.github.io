@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[6001],{3707:function(a){a.exports=JSON.parse('{"label":"XOps","permalink":"/writing/tags/x-ops","allTagsPath":"/writing/tags","count":1}')}}]);

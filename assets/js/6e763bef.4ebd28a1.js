@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[6944],{1446:function(e){e.exports=JSON.parse('{"label":"DevOps","permalink":"/writing/tags/dev-ops","allTagsPath":"/writing/tags","count":1}')}}]);

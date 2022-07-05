@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[7161],{6696:function(a){a.exports=JSON.parse('{"label":"tax","permalink":"/writing/tags/tax","allTagsPath":"/writing/tags","count":1}')}}]);

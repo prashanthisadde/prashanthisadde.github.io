@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[1487],{2280:function(a){a.exports=JSON.parse('{"label":"adani foundation","permalink":"/writing/tags/adani-foundation","allTagsPath":"/writing/tags","count":1}')}}]);

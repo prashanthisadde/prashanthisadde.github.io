@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[8509],{4984:function(a){a.exports=JSON.parse('{"label":"education","permalink":"/writing/tags/education","allTagsPath":"/writing/tags","count":1}')}}]);
