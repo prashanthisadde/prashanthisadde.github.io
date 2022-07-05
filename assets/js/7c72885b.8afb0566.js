@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[7215],{8362:function(e){e.exports=JSON.parse('{"permalink":"/pnotions","page":1,"postsPerPage":10,"totalPages":2,"totalCount":11,"nextPage":"/pnotions/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
