@@ -2,16 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://prashanthisadde.github.io/blog</id>
     <title>Hi, I'm Prashanthi. Blog</title>
-    <updated>2021-06-28T00:00:00.000Z</updated>
+    <updated>2022-07-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://prashanthisadde.github.io/blog"/>
     <subtitle>Hi, I'm Prashanthi. Blog</subtitle>
     <icon>https://prashanthisadde.github.io/img/pfavicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[July, 2022]]></title>
+        <id>july</id>
+        <link href="https://prashanthisadde.github.io/blog/july"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[👾 Added new section called Writing to post all my random wrtings here]]></summary>
+        <content type="html"><![CDATA[<p>👾 Added new section called <code>Writing</code> to post all my random wrtings here</p><p>👾 New article <a href="https://www.linkedin.com/pulse/fantastic-donations-where-find-them-prashanthi-sadde/?trackingId=9y39E71wSs2nGUnf9nKxPA%3D%3D" target="_blank" rel="noopener noreferrer">Fantastic Donations and Where to Find Them</a></p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[June, 2022]]></title>
         <id>june</id>
         <link href="https://prashanthisadde.github.io/blog/june"/>
-        <updated>2021-06-28T00:00:00.000Z</updated>
+        <updated>2022-06-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[👾 June 28, 2022 Let's Go Exploring! 👾]]></summary>
         <content type="html"><![CDATA[<p>👾 <code>June 28, 2022</code> <a href="https://prashanthisadde.substack.com/p/lets-go-exploring" target="_blank" rel="noopener noreferrer">Let's Go Exploring! 👾</a></p><p>👾 <code>June 26, 2022</code>
 <a href="https://prashanthisadde.substack.com/p/what-is-it-i-dont-know" target="_blank" rel="noopener noreferrer">What is it? I don’t know.</a> 🛸</p><p>👾 <code>June 19, 2022</code>
@@ -23,7 +31,7 @@
         <title type="html"><![CDATA[May, 2022]]></title>
         <id>may</id>
         <link href="https://prashanthisadde.github.io/blog/may"/>
-        <updated>2021-05-29T00:00:00.000Z</updated>
+        <updated>2022-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[All letters are available at Pnotions, also in Pnotions section here.]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="all-letters-are-available-at-pnotions-also-in-pnotions-section-here">All letters are available at <a href="https://prashanthisadde.substack.com/" target="_blank" rel="noopener noreferrer">Pnotions</a>, also in <code>Pnotions</code> section here.<a class="hash-link" href="#all-letters-are-available-at-pnotions-also-in-pnotions-section-here" title="Direct link to heading">​</a></h3><p>👾 <code>May 29, 2022</code>
 <a href="https://prashanthisadde.substack.com/p/5-pnotions?s=w" target="_blank" rel="noopener noreferrer">#5 Pnotions</a> 🛸</p><p>👾 <code>May 22, 2022</code>
@@ -36,7 +44,7 @@
         <title type="html"><![CDATA[April, 2022]]></title>
         <id>april</id>
         <link href="https://prashanthisadde.github.io/blog/april"/>
-        <updated>2021-04-27T00:00:00.000Z</updated>
+        <updated>2022-04-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[👾 Subsribe to my Newsletter here Pnotions Newsletter]]></summary>
         <content type="html"><![CDATA[<p>👾 Subsribe to my Newsletter here <a href="https://prashanthisadde.substack.com/p/coming-soon?r=1gxugq&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">Pnotions Newsletter</a></p><p>👾 <strong>Exciting 👽</strong> - <code>Pnotions</code> section and <strong>Newsletter</strong> are ready to ship 🛸 this Sunday  (May 1, 2022)</p><blockquote><p><em>It is my alien planet 👾, so I ship by UFO 🛸</em></p></blockquote><p>👾  New section - <code>Pnotions</code></p><p>👾 Added new section called <code>Updates</code> to show all updates in one place</p><p>👾 Work alert - Integrating and automating Data Engineering - Analytics tasks with DevOps. More details in the future 🤩</p><p>👾 Created this website</p>]]></content>
     </entry>
@@ -44,7 +52,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>updates</id>
         <link href="https://prashanthisadde.github.io/blog/updates"/>
-        <updated>2021-04-12T00:00:00.000Z</updated>
+        <updated>2022-04-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I will share all my updates in this section]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="i-will-share-all-my-updates-in-this-section">I will share all my updates in this section<a class="hash-link" href="#i-will-share-all-my-updates-in-this-section" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="hi" src="/assets/images/pupdates-7ff97b31a6753487d93f9f8587755ede.svg" width="846" height="526" class="img_E7b_"></p>]]></content>
     </entry>
