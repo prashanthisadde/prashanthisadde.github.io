@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[6962],{7127:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"My Delhi tech meet with StatusNeo","permalink":"/moments/my-delhi-tech-meet-with-statusneo"},{"title":"Welcome","permalink":"/moments/welcome"}]}')}}]);
