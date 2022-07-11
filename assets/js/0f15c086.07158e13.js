@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[3924],{3637:function(a){a.exports=JSON.parse('{"label":"DC comics","permalink":"/writing/tags/dc-comics","allTagsPath":"/writing/tags","count":1}')}}]);

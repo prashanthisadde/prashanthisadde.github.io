@@ -4,10 +4,20 @@
         <title>Hi, I'm Prashanthi. Blog</title>
         <link>https://prashanthisadde.github.io/writing</link>
         <description>Hi, I'm Prashanthi. Blog</description>
-        <lastBuildDate>Mon, 04 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[My Alien HD dream]]></title>
+            <link>https://prashanthisadde.github.io/writing/my-alien-hd-dream</link>
+            <guid>my-alien-hd-dream</guid>
+            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Once I had a weird dream. I was walking down the street (maybe an evening stroll) when I suddenly noticed something flickered in the sky.]]></description>
+            <content:encoded><![CDATA[<p>Once I had a weird dream. I was walking down the street (maybe an evening stroll) when I suddenly noticed something flickered in the sky.</p><p>Then it grew bigger and bigger as I stood there watching it curiously. It became clear after a few seconds, a UFO. I was so excited and shouted, "Finally!".</p><p>It came hurtling towards me (to land), and I started running. I experienced this entire scene in my dream, like watching a high-definition 3D movie. </p><p>UFO landed a few meters from me, then came a few aliens. They looked so angry. I waited many years to meet and talk to an alien, but this situation didn't seem friendly.</p><p>They had some super-advanced weapons in their hands. They looked like a cross between a military weapon and a lightsaber.</p><p>In the blink of an eye, they aimed and blew me.</p><p>I mean, what was that? I wasn't ready. Next time, I will be ready with my wand.</p>]]></content:encoded>
+            <category>dream</category>
+            <category>alien</category>
+        </item>
         <item>
             <title><![CDATA[Fantastic Donations and Where to Find Them]]></title>
             <link>https://prashanthisadde.github.io/writing/fantastic-donations-and-where-to-find-them</link>
@@ -40,20 +50,22 @@
             <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[It was a very dark, stormy night (not really, but let's assume). The Data team got a DNS issue. I worked with them earlier, so I took up the task. It was about two different services from two different regions trying to connect over a global AWS DNS service, Route53.]]></description>
             <content:encoded><![CDATA[<p>It was a very dark, stormy night (not really, but let's assume). The Data team got a DNS issue. I worked with them earlier, so I took up the task. It was about two different services from two different regions trying to connect over a global AWS DNS service, Route53.</p><p>I tried to connect them. I mean, I really tried. I googled and read/ investigated all the possible solutions. I read and applied the instructions from AWS documentation, and most importantly, Stack Overflow answers.</p><p>After hours of trying, it was a futile effort. It was almost midnight when I decided to sleep, thinking of solving it the next day.</p><p>Maybe in my efforts to solve the issue, I attracted a few evil spirits. Yes, I didn't understand that either. But, I saw phantoms and one poltergeist hanging in the air, throwing my stuff around the living room. I immediately grabbed my Pro (MacBook) from the table and clutched it. The poltergeist was so naughty. I thought it was Peeves' (from Harry Potter) cousin. They all looked like a human, formed from white smoke, translucent.</p><p>Ghosts were wreaking havoc, and suddenly I heard a bang. I turned in the direction of the loud noise, and couldn't believe my eyes. I saw John Constantine (a warlock from DC comics). Ghosts were at my place only a few minutes before he appeared. He was fast. </p><p>I greeted him and offered him a cup of coffee. He didn't take it because of his busy schedule. I didn't understand that at all (I mean, who rejects coffee? Hell can wait). He started his usual rituals to get rid of these ghosts but was troubled to concentrate on the spells. The ghosts were so busy bothering him. It was chaos everywhere.</p><p>I lost patience and started babbling about my own issues. Then the whole room went quiet. They all looked intrigued, so I started sharing the DNS issue I faced earlier. I went on and on about my attempts to solve it. Then Peeves' cousin, the poltergeist, threw a chair into the air. It landed on the floor with a bang. Peeves' bad cousin broke my chair and said, "We are leaving this place right now. We are already dead. we don't need this DNS nonsense." And they all left.</p><p>John looked at me bewildered. I was shocked too, realizing that I bored a bunch of ghosts to death. The irony was not last on me. </p><p>John came up to me and said, "Your way of getting rid of ghosts was less messy. Alright, Good Night mate." He was ready for his next assignment. I went outside with him and saw the Time ship. Gideon (advanced AI from the Time ship) was probably plotting the course for the next adventure. So, he was working with the Legends (DC Legends).</p><p>I was so excited to meet the Legends, but they were in a hurry to visit the past and whatever chaos was happening there. For a few minutes, I completely forgot about my DNS problem.</p><p>He said goodbye and boarded the ship. It hummed to life, ready to take off. Suddenly, there was a blinding light. I couldn't see anything for a second, and I woke up. It was the morning sun on my face. I went into the living room with my eyes half-closed from sleep. Everything looked normal, the furniture, my books, even the broken chair. It took me a minute to understand that it was all a dream, the ghosts, and John Constantine. Not my DNS issue. It was very real.</p><p>With that realization, I made a pot of my favorite coffee, went into the study with my The Batman cup, started resolving the DNS resolve issue.</p>]]></content:encoded>
-            <category>DNS</category>
-            <category>DevOps</category>
-            <category>Harry Potter</category>
-            <category>DC comics</category>
-            <category>The Batman</category>
-            <category>Coffee</category>
+            <category>fiction</category>
+            <category>dream</category>
+            <category>dns</category>
+            <category>devops</category>
+            <category>harrypotter</category>
+            <category>dc-comics</category>
+            <category>thebatman</category>
+            <category>coffee</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://prashanthisadde.github.io/writing/welcome</link>
             <guid>welcome</guid>
             <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to my random writing space]]></description>
-            <content:encoded><![CDATA[<p>Welcome to my random writing space</p><p><img loading="lazy" alt="hi" src="/assets/images/pwrite-2e9620edfab8acd06746b382dec51d88.svg" width="492" height="597" class="img_ev3q"></p>]]></content:encoded>
+            <description><![CDATA[A space for my crazy thoughts]]></description>
+            <content:encoded><![CDATA[<p>A space for my crazy thoughts</p><p><img loading="lazy" alt="hi" src="/assets/images/pwrite-2e9620edfab8acd06746b382dec51d88.svg" width="492" height="597" class="img_ev3q"></p>]]></content:encoded>
         </item>
     </channel>
 </rss>

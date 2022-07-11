@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[5245],{1091:function(t){t.exports=JSON.parse('{"label":"harrypotter","permalink":"/writing/tags/harrypotter","allTagsPath":"/writing/tags","count":1}')}}]);

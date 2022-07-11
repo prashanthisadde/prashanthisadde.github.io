@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://prashanthisadde.github.io/writing</id>
     <title>Hi, I'm Prashanthi. Blog</title>
-    <updated>2022-07-04T00:00:00.000Z</updated>
+    <updated>2022-07-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://prashanthisadde.github.io/writing"/>
     <subtitle>Hi, I'm Prashanthi. Blog</subtitle>
     <icon>https://prashanthisadde.github.io/img/pfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My Alien HD dream]]></title>
+        <id>my-alien-hd-dream</id>
+        <link href="https://prashanthisadde.github.io/writing/my-alien-hd-dream"/>
+        <updated>2022-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Once I had a weird dream. I was walking down the street (maybe an evening stroll) when I suddenly noticed something flickered in the sky.]]></summary>
+        <content type="html"><![CDATA[<p>Once I had a weird dream. I was walking down the street (maybe an evening stroll) when I suddenly noticed something flickered in the sky.</p><p>Then it grew bigger and bigger as I stood there watching it curiously. It became clear after a few seconds, a UFO. I was so excited and shouted, "Finally!".</p><p>It came hurtling towards me (to land), and I started running. I experienced this entire scene in my dream, like watching a high-definition 3D movie. </p><p>UFO landed a few meters from me, then came a few aliens. They looked so angry. I waited many years to meet and talk to an alien, but this situation didn't seem friendly.</p><p>They had some super-advanced weapons in their hands. They looked like a cross between a military weapon and a lightsaber.</p><p>In the blink of an eye, they aimed and blew me.</p><p>I mean, what was that? I wasn't ready. Next time, I will be ready with my wand.</p>]]></content>
+        <author>
+            <name>Prashanthi</name>
+        </author>
+        <category label="dream" term="dream"/>
+        <category label="alien" term="alien"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantastic Donations and Where to Find Them]]></title>
         <id>fantastic-donations-and-where-to-find-them</id>
@@ -48,19 +61,21 @@
         <author>
             <name>Prashanthi</name>
         </author>
-        <category label="DNS" term="DNS"/>
-        <category label="DevOps" term="DevOps"/>
-        <category label="Harry Potter" term="Harry Potter"/>
-        <category label="DC comics" term="DC comics"/>
-        <category label="The Batman" term="The Batman"/>
-        <category label="Coffee" term="Coffee"/>
+        <category label="fiction" term="fiction"/>
+        <category label="dream" term="dream"/>
+        <category label="dns" term="dns"/>
+        <category label="devops" term="devops"/>
+        <category label="harrypotter" term="harrypotter"/>
+        <category label="dc-comics" term="dc-comics"/>
+        <category label="thebatman" term="thebatman"/>
+        <category label="coffee" term="coffee"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://prashanthisadde.github.io/writing/welcome"/>
         <updated>2022-03-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to my random writing space]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to my random writing space</p><p><img loading="lazy" alt="hi" src="/assets/images/pwrite-2e9620edfab8acd06746b382dec51d88.svg" width="492" height="597" class="img_ev3q"></p>]]></content>
+        <summary type="html"><![CDATA[A space for my crazy thoughts]]></summary>
+        <content type="html"><![CDATA[<p>A space for my crazy thoughts</p><p><img loading="lazy" alt="hi" src="/assets/images/pwrite-2e9620edfab8acd06746b382dec51d88.svg" width="492" height="597" class="img_ev3q"></p>]]></content>
     </entry>
 </feed>

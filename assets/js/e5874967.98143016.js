@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[4809],{2474:function(a){a.exports=JSON.parse('{"label":"dream","permalink":"/writing/tags/dream","allTagsPath":"/writing/tags","count":2}')}}]);

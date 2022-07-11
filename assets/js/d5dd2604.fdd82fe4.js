@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkta_web=self.webpackChunkta_web||[]).push([[1786],{2936:function(a){a.exports=JSON.parse('{"label":"dns","permalink":"/writing/tags/dns","allTagsPath":"/writing/tags","count":1}')}}]);
